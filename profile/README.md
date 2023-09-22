@@ -1,5 +1,8 @@
 # Turkman linux iso files:
 
+## For beginners:
+* cinnamon https://github.com/turkman-linux/turkman-enduser/releases/download/latest/turkman-cinnamon-enduser.iso
+
 ## FOSS:
 * minimal https://github.com/turkman-linux/iso-minimal/releases/download/latest/turkman-minimal.iso
 * x11 https://github.com/turkman-linux/iso-x11/releases/download/latest/turkman-x11.iso
