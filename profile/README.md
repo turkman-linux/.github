@@ -13,7 +13,7 @@ Password: live
 ```
 
 ## End User Edition:
-https://github.com/turkman-linux/turkman-enduser/releases/download/latest/turkman-cinnamon-enduser.iso
+https://github.com/turkman-linux/iso-enduser/releases/download/latest/turkman-cinnamon-enduser.iso
 
 ## FOSS:
 * minimal https://github.com/turkman-linux/iso-minimal/releases/download/latest/turkman-minimal.iso
