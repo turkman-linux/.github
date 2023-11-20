@@ -22,6 +22,7 @@ https://github.com/turkman-linux/iso-enduser/releases/download/latest/turkman-ci
 * xfce https://github.com/turkman-linux/iso-xfce/releases/download/latest/turkman-xfce.iso
 * cinnamon https://github.com/turkman-linux/iso-cinnamon/releases/download/latest/turkman-cinnamon.iso
 * sway https://github.com/turkman-linux/iso-sway/releases/download/latest/turkman-sway.iso
+* kde https://github.com/turkman-linux/iso-kde/releases/download/latest/turkman-kde.iso
 
 ## Firmware included:
 * minimal https://github.com/turkman-linux/iso-minimal/releases/download/latest/turkman-minimal-firmware.iso
@@ -30,3 +31,4 @@ https://github.com/turkman-linux/iso-enduser/releases/download/latest/turkman-ci
 * xfce https://github.com/turkman-linux/iso-xfce/releases/download/latest/turkman-xfce-firmware.iso
 * cinnamon https://github.com/turkman-linux/iso-cinnamon/releases/download/latest/turkman-cinnamon-firmware.iso
 * sway https://github.com/turkman-linux/iso-sway/releases/download/latest/turkman-sway-firmware.iso
+* kde https://github.com/turkman-linux/iso-kde/releases/download/latest/turkman-kde-firmware.iso
