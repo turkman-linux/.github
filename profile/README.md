@@ -23,7 +23,7 @@ https://github.com/turkman-linux/iso-enduser/releases/download/latest/turkman-ci
 * cinnamon https://github.com/turkman-linux/iso-cinnamon/releases/download/latest/turkman-cinnamon.iso
 * sway https://github.com/turkman-linux/iso-sway/releases/download/latest/turkman-sway.iso
 * kde https://github.com/turkman-linux/iso-kde/releases/download/latest/turkman-kde.iso
-* hyprland: https://github.com/turkman-linux/iso-hyprland/releases/download/latest/turkman-firmware.iso
+* hyprland: https://github.com/turkman-linux/iso-hyprland/releases/download/latest/turkman-hyprland.iso
 
 ## Firmware included:
 * minimal https://github.com/turkman-linux/iso-minimal/releases/download/latest/turkman-minimal-firmware.iso
