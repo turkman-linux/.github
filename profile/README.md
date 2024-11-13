@@ -16,7 +16,7 @@ Password: live
 https://github.com/turkman-linux/iso-enduser/releases/download/latest/turkman-cinnamon-enduser.iso
 
 ## FOSS:
-* minimal https://github.com/turkman-linux/iso-minimal/releases/download/latest/turkman-minimal.iso
+* minimal https://github.com/turkman-linux/iso-profile/releases/download/minimal/turkman-minimal.iso
 * x11 https://github.com/turkman-linux/iso-x11/releases/download/latest/turkman-x11.iso
 * lxde https://github.com/turkman-linux/iso-lxde/releases/download/latest/turkman-lxde.iso
 * xfce https://github.com/turkman-linux/iso-xfce/releases/download/latest/turkman-xfce.iso
@@ -26,7 +26,7 @@ https://github.com/turkman-linux/iso-enduser/releases/download/latest/turkman-ci
 * hyprland: https://github.com/turkman-linux/iso-hyprland/releases/download/latest/turkman-hyprland.iso
 
 ## Firmware included:
-* minimal https://github.com/turkman-linux/iso-minimal/releases/download/latest/turkman-minimal-firmware.iso
+* minimal https://github.com/turkman-linux/iso-profile/releases/download/minimal/turkman-minimal-firmware.iso
 * x11 https://github.com/turkman-linux/iso-x11/releases/download/latest/turkman-x11-firmware.iso
 * lxde https://github.com/turkman-linux/iso-lxde/releases/download/latest/turkman-lxde-firmware.iso
 * xfce https://github.com/turkman-linux/iso-xfce/releases/download/latest/turkman-xfce-firmware.iso
