@@ -1,19 +1,16 @@
 # Turkman linux iso files:
 
-For End User Edition
+For All
 ```yaml
 Username: pingu
 Password: just press enter
 ```
 
-For FOSS and Firmware
+For Minimal
 ```yaml
 Username: root
 Password: live
 ```
-
-## End User Edition:
-https://github.com/turkman-linux/iso-enduser/releases/download/latest/turkman-cinnamon-enduser.iso
 
 ## FOSS:
 * minimal https://github.com/turkman-linux/iso-profile/releases/download/minimal/turkman-minimal.iso
