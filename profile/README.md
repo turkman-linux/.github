@@ -22,7 +22,7 @@ https://github.com/turkman-linux/iso-enduser/releases/download/latest/turkman-ci
 * xfce https://github.com/turkman-linux/iso-profile/releases/download/xfce/turkman-xfce.iso
 * cinnamon https://github.com/turkman-linux/iso-profile/releases/download/cinnamon/turkman-cinnamon.iso
 * sway https://github.com/turkman-linux/iso-profile/releases/download/sway/turkman-sway.iso
-* kde https://github.com/turkman-linux/iso-kde/releases/download/latest/turkman-kde.iso
+* kde https://github.com/turkman-linux/iso-profile/releases/download/kde/turkman-kde.iso
 * hyprland: https://github.com/turkman-linux/iso-profile/releases/download/hyprland/turkman-hyprland.iso
 
 ## Firmware included:
@@ -32,5 +32,5 @@ https://github.com/turkman-linux/iso-enduser/releases/download/latest/turkman-ci
 * xfce https://github.com/turkman-linux/iso-profile/releases/download/xfce/turkman-xfce-firmware.iso
 * cinnamon https://github.com/turkman-linux/iso-profile/releases/download/cinnamon/turkman-cinnamon-firmware.iso
 * sway https://github.com/turkman-linux/iso-profile/releases/download/sway/turkman-sway-firmware.iso
-* kde https://github.com/turkman-linux/iso-kde/releases/download/latest/turkman-kde-firmware.iso
+* kde https://github.com/turkman-linux/iso-profile/releases/download/kde/turkman-kde-firmware.iso
 * hyprland: https://github.com/turkman-linux/iso-profile/releases/download/hyprland/turkman-hyprland-firmware.iso
