@@ -12,14 +12,7 @@
 | Hyperland  | [Download](https://github.com/turkman-linux/iso-profile/releases/download/hyprland/turkman-hyprland.iso) | [Download](https://github.com/turkman-linux/iso-profile/releases/download/hyprland/turkman-hyprland-firmware.iso) |
 
 # Login Information 
-For All
 ```yaml
-Username: pingu
-Password: just press enter
-```
-
-For Minimal
-```yaml
-Username: root
+Username: pingu / root
 Password: live
 ```
